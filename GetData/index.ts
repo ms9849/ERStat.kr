@@ -7,8 +7,7 @@ import fs from "fs";
 import { CheckExecTime } from "./src/func/checkExecTime";
 
 const ApiKeyList: string[] = [
-  "tCYNVF3Zwu1iUnM2g2doQ4F8VOXwhOmr7FzwbN3E",
-  "OH5e3EFhinaVP2SQW29Cc9u538rEhP6I8H4aNwQo",
+
 ];
 
 const tierList: string[] = [
