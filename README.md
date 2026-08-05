@@ -17,14 +17,11 @@
 당시 유저 전적 및 통계를 제공하던 DAK.GG 에서 10일치 통계를 제공하기 시작하면서 짧은 서비스를 종료하게 됐습니다.
 
 
-* * *
+## 스크린샷 
 <p align="center">
   <img src="https://github.com/ms9849/erstat_legacy/assets/65911657/a61cd99c-585d-456c-a376-2a163804ee7e">   
   <br/>
-  <메인 페이지>
 </p>
-
-* * *
 
 <p align="center">
   <img src="https://github.com/ms9849/erstat_legacy/assets/65911657/64af1b55-461b-4fff-8375-52f7f704feae">  
@@ -32,15 +29,11 @@
   <통계 1>
 </p>
 
-* * *
-
 <p align="center">
   <img src="https://github.com/ms9849/erstat_legacy/assets/65911657/de59c3b2-4125-4c80-ae6d-6481c63c1889">   
   <br/>
   <통계 2>
 </p>
-
-* * *
 
 <p align="center">
   <img src="https://github.com/ms9849/erstat_legacy/assets/65911657/5fbf6d40-9938-4a35-a5a5-92959b929425">   
@@ -48,7 +41,6 @@
   <통계 3>
 </p>
 
-* * *
 
 
 
